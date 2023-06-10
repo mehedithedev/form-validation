@@ -1,10 +1,10 @@
 <h1>Form Validation</h1>
-<<<<<<< HEAD
+
 <h2>This is a React component that renders a form with input fields for the user to fill in. The form includes validation rules for each input field using the yup library.</h2>
 
 =======
 This is a React component that renders a form with input fields for the user to fill in. The form includes validation rules for each input field using the yup library.
->>>>>>> c753ab6b972e0f2cf717edd311b23ee2c1dcacc8
+
 
 To install the necessary dependencies for this component, run the following command:
 
