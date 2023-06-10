@@ -1,7 +1,7 @@
-Form Validation
-This is a React component that renders a form with input fields for the user to fill in. The form includes validation rules for each input field using the yup library.
+<h1>Form Validation</h1>
+<h2>This is a React component that renders a form with input fields for the user to fill in. The form includes validation rules for each input field using the yup library.</h2>
 
-Installation
+
 To install the necessary dependencies for this component, run the following command:
 
 npm install react-hook-form @hookform/resolvers yup
