@@ -17,7 +17,7 @@ function Form() {
         .oneOf([yup.ref('password'), null])
         .required()        
     })
-    const {register, handleSubmit} = useForm({
+    const {register, handleSubmit, formState: {errors}} = useForm({
         resolver: yupResolver(schema)
     });
 
