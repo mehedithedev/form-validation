@@ -1,4 +1,4 @@
-Form Validation
+<h1>Form Validation</h1>
 This is a React component that renders a form with input fields for the user to fill in. The form includes validation rules for each input field using the yup library.
 
 Installation
