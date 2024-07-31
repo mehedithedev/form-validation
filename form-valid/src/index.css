@@ -1,0 +1,17 @@
+p{
+  color: red;
+}
+body{
+  text-align: center;
+}
+
+form{
+  padding: 50px;
+}
+
+.name{
+  margin-bottom: 20px;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 10px;
+}
